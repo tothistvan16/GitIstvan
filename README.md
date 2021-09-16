@@ -1,0 +1,2 @@
+# GitIstvan
+Tanulas repo
